@@ -6,7 +6,7 @@
 /*   By: dalba-de <dalba-de@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/17 08:42:56 by dalba-de          #+#    #+#             */
-/*   Updated: 2020/06/22 02:25:47 by dalba-de         ###   ########.fr       */
+/*   Updated: 2020/12/11 17:27:30 by dalba-de         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,7 +61,7 @@ void	ft_atoi_test()
 			 ████████║  ██║   ██║   ██║██║    ██║   ██╔══╝  ╚════██║   ██║\n \
 			 ██╔═══██║  ██║    ██████╔╝██║    ██║   ███████╗███████║   ██║\n \
 			 ╚═╝   ╚═╝  ╚═╝    ╚═════╝ ╚═╝    ╚═╝   ╚══════╝╚══════╝   ╚═╝\n \
-								\n\n");
+					by dalba-de			\n\n");
 	printf("" CYAN"Checking "PURPLE"'ATOI BASE' "RESET""CYAN" function with number base, please wait...\n\n"RESET"");
 	sleep(2);
 	int i = 0;

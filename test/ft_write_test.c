@@ -6,7 +6,7 @@
 /*   By: dalba-de <dalba-de@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/21 10:35:34 by dalba-de          #+#    #+#             */
-/*   Updated: 2020/06/22 01:16:18 by dalba-de         ###   ########.fr       */
+/*   Updated: 2020/12/11 17:28:04 by dalba-de         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,7 +23,7 @@ void	ft_write_test()
 			██╔══╝     ██║         ████████║  ██╔══██╗██║   ██║   ██╔══╝      ██║   ██╔══╝  ╚════██║   ██║\n \
 			██║        ██║███████╗  ██╔═██╔╝  ██║  ██║██║   ██║   ███████╗    ██║   ███████╗███████║   ██║\n \
 			╚═╝        ╚═╝╚══════╝  ╚═╝ ╚═╝   ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝    ╚═╝   ╚══════╝╚══════╝   ╚═╝\n \
-								\n\n");
+					by dalba-de			\n\n");
 	printf("" CYAN"Checking "PURPLE"'FT_WRITE' "RESET""CYAN" function, please wait...\n\n"RESET"");
 	sleep(2);
 	printf(""GREY"Writing basic input in"PURPLE" 'STDOUT'\n\n");

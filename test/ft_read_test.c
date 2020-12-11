@@ -6,7 +6,7 @@
 /*   By: dalba-de <dalba-de@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/21 14:17:24 by dalba-de          #+#    #+#             */
-/*   Updated: 2020/06/21 17:43:47 by dalba-de         ###   ########.fr       */
+/*   Updated: 2020/12/11 17:27:37 by dalba-de         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@ void	ft_read_test()
 			██╔══╝     ██║        ██╔══██╗██╔══╝  ████████║██║   ██║    ██║   ██╔══╝  ╚════██║   ██║\n \
 			██║        ██║███████╗██║  ██║███████╗██╔═══██║███████╔╝    ██║   ███████╗███████║   ██║\n \
 			╚═╝        ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝╚══════╝     ╚═╝   ╚══════╝╚══════╝   ╚═╝\n \
-								\n\n");
+					by dalba-de			\n\n");
 	printf("" CYAN"Testeando función "PURPLE"'FT_READ' "RESET""CYAN"espere...\n\n"RESET"");
 	sleep(2);
 	printf(""GREY"Reading basic input from"PURPLE" 'FILES'"RESET"\n\n");
