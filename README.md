@@ -25,11 +25,11 @@ make bonus && make runbonus
 
 ## Mandatory example
 
-![mandatory](https://user-images.githubusercontent.com/57690316/101933205-297f8900-3bdc-11eb-9a10-dd778fd8e6ba.png)
+![mandatory](https://user-images.githubusercontent.com/57690316/101933738-e83ba900-3bdc-11eb-9961-0dab2f188aa6.png)
 
 ## Bonus example
 
-![bonus](https://user-images.githubusercontent.com/57690316/101933312-4e73fc00-3bdc-11eb-9a17-ce9b12b6c713.png)
+![bonus](https://user-images.githubusercontent.com/57690316/101933748-ea9e0300-3bdc-11eb-9994-fd2aa21ef262.png)
 
 ## Issues
 
