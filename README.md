@@ -29,7 +29,7 @@ make bonus && make runbonus
 
 ## Bonus example
 
-
+![bonus](https://user-images.githubusercontent.com/57690316/101933312-4e73fc00-3bdc-11eb-9a17-ce9b12b6c713.png)
 
 ## Issues
 
