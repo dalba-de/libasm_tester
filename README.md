@@ -9,7 +9,7 @@ git clone https://github.com/dalba-de/libasm_tester.git
 cd libasm_tester/srcs
 ```
 
-In this folder put all your *.s files inside srcs folder (no *.h files or Makefile needed), as indicated in srcs/README. Then return to libas_tester root folder.
+In this folder put all your *.s files (no *.h files or Makefile needed), as indicated in srcs/README. Then return to libasm_tester root folder.
 
 For mandatory part:
 
